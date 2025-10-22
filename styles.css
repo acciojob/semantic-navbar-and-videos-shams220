@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+a{
+text-decoration:none;
+	
+}
+nav{
+background-color:yellow;
+	height:40px;
+}
+ul{
+display:flex;
+	justify-content:space-between;
+	
+	align-items:center;
+	
+}
+.vid-div{
+margin-top:2rem;
+	display:flex;
+	justify-content:center;
+	gap:3rem;
+}
+video{
+width:200px;
+}
